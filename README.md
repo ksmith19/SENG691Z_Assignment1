@@ -1,2 +1,9 @@
 # SENG691Z_Assignment1
 Kyle Smith's repository for summary and code(Task1-Task3) of assignment 1 in SENG691Z
+
+                                                                                                                     Kyle Smith
+                                                    Test Driven Development
+Test driven development is a great methodology for any developer to use to map out an efficient design of their code with a repetitive process.  Through this assignment, it was a different task to create empty test units, and then build the overall program through compilations and failures.  The most difficult aspect was overcoming temptations to dive straight into developing full functionalities instead of gradually adding to the unit tests. However, it was very enjoyable and something I want to implement in my own development processes in the future.
+It was particularly interesting to develop the Tic Tac Toe game through test driven development.  Normally, when I develop games that have several levels of functionality, I don’t properly plan the relations certain functions/methods have on the overall scope of the project. I found this was not the case with this program.  After a few unit tests, most of the logic was easier than usual to implement because my design process was very connected and minimal.  There was a very sound foundation to write the inner code because I completed unit tests first.
+	This assignment was also enjoyable because there is often a lack of time to refactor code at my job.  I was able to focus on building minimal code to pass my tests to achieve desired features in the assignment, while knowing there would be time for me to refactor it.  Building minimal code during unit tests was a great way for me to focus on features of the program, and I found it was very easy to add the necessary additions to my code to pass the tests in future stages.
+
